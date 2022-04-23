@@ -13,7 +13,7 @@ We execute this script by name only. To replicate this behaviour use this comman
 ```
 cp TorrlientVM.py /bin/torrlientvm
 ```
-
+CLI Options
 ```
 torrlientvm -search
 ```
