@@ -7,3 +7,9 @@ We support individual development and growth with ***free*** access to greater c
 
 ## TorrlientVM
 This folder contains the source code for "TorrlientVM", a Virtual Machine intended to make it easier to develop Autonomous Virtual Machine Applications.
+
+
+We execute this script by name only. To replicate use 
+''''
+cp TorrlientVM.py /bin/torrlientvm
+''''
