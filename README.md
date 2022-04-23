@@ -9,7 +9,28 @@ We support individual development and growth with ***free*** access to greater c
 This folder contains the source code for "TorrlientVM", a Virtual Machine intended to make it easier to develop Autonomous Virtual Machine Applications.
 
 
-We execute this script by name only. To replicate use 
+We execute this script by name only. To replicate this behaviour use this command: 
 ```
 cp TorrlientVM.py /bin/torrlientvm
 ```
+
+```
+torrlientvm -search
+```
+```
+torrlientvm -init scriptname
+```
+```
+torrlientvm -remove scriptname
+```
+```
+torrlientvm -queue
+```
+```
+torrlientvm -listen
+```
+```
+torrlientvm -run
+```
+
+***Note*** This code contain section with Telemetry that are completely unused. 
