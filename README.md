@@ -33,4 +33,4 @@ torrlientvm -listen
 torrlientvm -run
 ```
 
-***Note*** This code contain section with Telemetry that are completely unused. 
+***Note*** This code contain a section with Telemetry that are completely unused. 
